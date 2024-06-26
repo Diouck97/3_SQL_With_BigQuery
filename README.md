@@ -1,0 +1,2 @@
+- In this project, I'am using python to connect to BigQuery Databases and extract data from them using SQL.
+- different datasets have been used to create SQL queries
